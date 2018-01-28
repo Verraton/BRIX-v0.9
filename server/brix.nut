@@ -101,11 +101,6 @@ addEventHandler( "onScriptExit", onExit );
 
 function onConsoleCommand( command, params ) {
     log( "Console command: " + command + " | Params: " + params );
-
-    if(command == kick.tolower() )
-    {
-    	log("kick" + params + ".")
-    }
 }
 addEventHandler( "onConsoleInput", onConsoleCommand );
 
