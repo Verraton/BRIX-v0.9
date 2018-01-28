@@ -19,3 +19,8 @@ Example:
 
 
 Simply edit the settings on top of brix.nut as you like. If you know what you're doing you can edit the functions as much as you want.
+
+config.xml:
+<resources>
+        <resource>brix</resource>
+</resources>
