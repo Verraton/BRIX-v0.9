@@ -1,0 +1,11 @@
+<meta>
+	<!-- Load serverside scripts -->
+	<script type="server">brix.nut</script>
+
+	<!-- Load clientside scripts -->
+	<script type="client">logo.nut</script>
+	<script type="client">client-screen.nut</script>
+	
+	<!-- Load other stuff -->
+	<file>logo.png</file>
+</meta>
