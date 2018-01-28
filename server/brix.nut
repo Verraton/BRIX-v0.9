@@ -58,7 +58,7 @@ local randomSpawnPos3 = [-393.188, 910.936, -20.0026];
 local randomSpawnPos4 = [-393.188, 910.936, -20.0026];
 
 local useDefaultPlates = 1;
-local defaultPlates = "LOL69";
+local defaultPlates = "BRIX";
 
 GLOBAL_HOURS <- 12;
 GLOBAL_MINUTES <- 0;
